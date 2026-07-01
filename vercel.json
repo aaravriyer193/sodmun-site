@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/cpanel",
-      "destination": "https://sodmun.com:2083",
-      "permanent": false
-    }
-  ]
-}
